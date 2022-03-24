@@ -27,7 +27,7 @@
 |1-6-1. [AOP(6.4 이전)](https://github.com/Hedonism-IT-Study/Spring-Study/issues/6)|2022.3.03|김완기|:heavy_check_mark:|
 |1-6-2. [AOP(6.5 이후)](https://github.com/Hedonism-IT-Study/Spring-Study/issues/7)|2022.3.10|김완기|:heavy_check_mark:|
 |1-7-1. [스프링 핵심 기술의 응용(7.4 이전)](https://github.com/Hedonism-IT-Study/Spring-Study/issues/8)|2022.3.17|이지원|:heavy_check_mark:|
-|1-7-2. [스프링 핵심 기술의 응용(7.5 이후)](https://github.com/Hedonism-IT-Study/Spring-Study/issues/9)|2022.3.24|김완기||
+|1-7-2. [스프링 핵심 기술의 응용(7.5 이후)](https://github.com/Hedonism-IT-Study/Spring-Study/issues/9)|2022.3.24|김완기|:heavy_check_mark:|
 |1-8. 스프링이란 무엇인가?|2022.3.31|윤원철||
 |1-9. 스프링 프로젝트 시작하기|2022.4.07|윤원철||
 |2-1-1. IoC 컨테이너와 DI(1.2 이전)|2022.4.14|김완기|:x:|
